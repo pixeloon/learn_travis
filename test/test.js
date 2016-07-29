@@ -1,6 +1,6 @@
   var code = require('../index');
-  //brings in chai functionality, makes test code more readable
   var expect = require('chai').expect;
+
 
 
 describe("Hello World", function() {
